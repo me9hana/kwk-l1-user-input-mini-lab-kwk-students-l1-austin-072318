@@ -18,4 +18,4 @@ nights = gets.chomp.capitalize
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-
+puts "Yay! You would like to stay at #{stay} for #{nights} nights and eat at #{eats}!"
